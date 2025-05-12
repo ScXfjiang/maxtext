@@ -140,3 +140,8 @@ dmypy.json
 
 # Intellij IDEA setting folder
 .idea
+
+bg-1w300-g1-2b/*
+generated*/
+generate*
+gpu_train_test*
